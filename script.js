@@ -1,4 +1,3 @@
-// Create a Random Hex color generator
 const form = document.getElementById('app-form');
 const formInput = document.getElementById('textField');
 const result = document.querySelector('.result');
